@@ -1,4 +1,4 @@
-# Voting System
+# DeVo (Voting System)
 
 The DeVo or Decentralized Voting System is a blockchain-based voting platform that aims to provide a secure and transparent way to conduct elections and voting processes. This system leverages blockchain technology to ensure the integrity of the voting process and eliminate fraud.
 
